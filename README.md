@@ -18,7 +18,6 @@ I am currently building strong fundamentals in Java and will gradually move towa
 
 🚧 OOPS – In Progress  
 🚧 Advanced DSA – Coming Soon  
-
 ---
 
 ## 📂 Folder Structure
