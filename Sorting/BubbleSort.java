@@ -1,5 +1,8 @@
 package Sorting;
-
+//bubble sort,sinking sort,exchange sort
+//inplace sorting algo
+//worst case complexity: O(n^2)
+//best case complexity: O(n) {sorted array)
 import java.util.Arrays;
 
 public class BubbleSort {
@@ -17,10 +20,6 @@ public class BubbleSort {
                     arr[j+1]=temp;
                 }
             }
-
-
-
-
         }
         return arr;
     }
