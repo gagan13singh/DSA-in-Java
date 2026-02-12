@@ -3,6 +3,8 @@ package Sorting;
 //inplace sorting algo
 //worst case complexity: O(n^2)
 //best case complexity: O(n) {sorted array)
+//stable algo
+
 import java.util.Arrays;
 
 public class BubbleSort {
