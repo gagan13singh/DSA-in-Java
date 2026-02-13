@@ -26,5 +26,5 @@ static void insertionSort(int[] arr){
 
         }
     }
-}
+  }
 }
