@@ -2,7 +2,7 @@ package Sorting;
 
 class MissingNumberSortedArray {
     public static void main(String[] args) {
-        int[] arr = {0,1,2,3,4,5,7,8,9};
+        int[] arr = {0,1,2,3,4,8,9,6};
         System.out.println(missingNumber(arr));
         }
 
