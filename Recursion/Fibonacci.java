@@ -2,7 +2,7 @@ package Recursion;
 
 public class Fibonacci {
     public static void main(String[] args) {
-        System.out.println(fib(7));
+        System.out.println(fib(46));
     }
     static int fib(int k) {
 
@@ -14,3 +14,7 @@ public class Fibonacci {
 
     }
 }
+
+//Types of recurrence relations:
+//1.Linear Recurrence relations (inefficient)
+//2.Divide and Conquer
