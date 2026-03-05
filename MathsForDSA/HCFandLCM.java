@@ -1,6 +1,6 @@
 package MathsForDSA;
 
-public class EuclidMethodForHCF {
+public class HCFandLCM {
     public static void main(String[] args) {
         System.out.println(gcd(20,30));
         System.out.println(lcm(20,30));
