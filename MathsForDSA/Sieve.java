@@ -1,5 +1,8 @@
 package MathsForDSA;
 
+
+//Time complexity: O(n*log(log n))
+
 public class Sieve {
     public static void main(String[] args) {
         int n=40;
