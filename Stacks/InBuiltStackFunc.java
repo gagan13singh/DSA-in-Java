@@ -20,3 +20,4 @@ public class InBuiltStackFunc {
 }
 
 //Time complexity: constant time to insert and remove an element.
+//Stack is a class but queue is an interface.
