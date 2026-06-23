@@ -8,7 +8,7 @@ class A {
         void greet();
     }
 }
- public class NestedTest implements A.B {
+public class NestedTest implements A.B {
 
     @Override
     public void greet() {
@@ -19,6 +19,6 @@ class A {
          t.greet();
      }
 
- }
+}
 
 
